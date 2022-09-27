@@ -1,0 +1,42 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: Data Analysis / Machine Learning / Statistics / Movies ...
+      - title: github repo
+        url: https://github.com/JIINGII
+
+  - title: all posts
+    post_list:
+      limit: 3
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: study
+    entries:
+      - title: Statistics
+        entries:
+        - title: Introduction to Probability (STAT110)
+          url: stat110.html
+      - title: Math
+        entries:
+        - title: Linear Algebra (Friedberg)
+          url: friedberg.html           
+      - title: SQL
+        entries:
+          - title: SQL로 시작하는 데이터분석
+            url: sql_for_da.html            
+      - title: Data Visualization
+        entries:
+          - title: 핸즈온 데이터 시각화
+            url: hands_on_data_viz.html
+      
+  - title: another list
+    entries:
+      - title: 영화
+        url: movies.html
+      - title: 일상
+        url: memo.html
