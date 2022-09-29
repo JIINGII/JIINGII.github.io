@@ -1,4 +1,4 @@
-title: 몰라노트 # name of the site
+title: 몰라몰라의 늪 # name of the site
 author: molla kim # name of site's author
 email: jingi.data@gmail.com # email of site's author
 url: https://github.com/JIINGII # root address of the site
@@ -13,7 +13,7 @@ kramdown:
 
 permalink: /:categories/:slug
 
-favicon: "eureka.png" # name+extension of favicon (which must be put on the root folder)
+favicon: "molla.png" # name+extension of favicon (which must be put on the root folder)
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
 #theme: no-style-please # if you are using GitHub Pages, change it to 
