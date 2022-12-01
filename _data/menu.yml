@@ -15,28 +15,30 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: study
-    entries:
-      - title: Statistics
-        entries:
-        - title: Introduction to Probability (STAT 110)
-          url: stat110.html
-      - title: Math
-        entries:
-        - title: Linear Algebra (Friedberg)
-          url: friedberg.html           
-      - title: SQL
-        entries:
-          - title: SQL로 시작하는 데이터분석
-            url: sql_for_da.html            
-      - title: Data Visualization
-        entries:
-          - title: 핸즈온 데이터 시각화
-            url: hands_on_data_viz.html
-      
-  - title: another list
-    entries:
-      - title: 영화
-        url: movies.html
-      - title: 일상
-        url: memo.html
+  - title: 몰라일기
+    post_list:
+      category: '몰라일기'
+      limit: 3
+      show_more: true
+      show_more_text: See more...
+      show_more_url: 몰라일기.html
+
+  - title: 짧지식
+    post_list:
+      category: '짧지식'
+      limit: 3
+      show_more: true
+      show_more_text: See more...
+      show_more_url: 짧지식.html
+    
+  - title: 프로젝트
+    post_list:
+      category: '프로젝트'
+      limit: 3
+      show_more: true
+      show_more_text: See more...
+      show_more_url: 프로젝트.html
+
+    # entries:
+    #   - title: Statistics
+    #     entries:

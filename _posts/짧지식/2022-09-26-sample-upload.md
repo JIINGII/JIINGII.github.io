@@ -1,13 +1,12 @@
 ---
 layout: post
-category: 'stat110'
+category: '짧지식'
 ---
-
 
 # 6.4 Moment generating functions
 
 ---
-    
+
 #### generating function?
 
 * powerful tool, bridging between sequences of numbers and the world of claculus.
